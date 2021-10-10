@@ -1,0 +1,19 @@
+File Sorter V2 is an application that uses a basic tkinter Gui that follows this procedure:
+
+- Browse to folder <User> would like organized.
+
+- Browse to a folder <User> would like to place a folder to organize files to.
+
+- Name the folder.
+
+- Automatically create a directory using the name chosen along with folders within the
+Directory with names corrosponding to file types.
+
+- Automatically sort files in the folder <User> has chosen into the new folders based on
+file types (file.endswith(".exe", ".apk") etc.)
+
+- Generate a Text document recording the files moved and which folder they were moved to.
+
+- Opens new folder.
+
+
