@@ -1,4 +1,5 @@
-File Sorter V2 is an application that uses a basic tkinter Gui that follows this procedure:
+File Sorter V3 is an application that uses a 
+tkinter Gui that follows this procedure:
 
 - Browse to folder <User> would like organized.
 
@@ -15,5 +16,13 @@ file types (file.endswith(".exe", ".apk") etc.)
 - Generate a Text document recording the files moved and which folder they were moved to.
 
 - Opens new folder.
+
+Updates:
+File Sorter V3 now has an improved GUI and uses a dictonary for referencing file extensions
+aswell as including my new logo.
+
+File Sorter V2 Was the first Gui Model
+
+File Sorter OG was command line based
 
 
