@@ -1,0 +1,15 @@
+Library.
+
+This program is a data storage program that allows the user to
+store information in a dictonary and reload it later.
+
+It can be refactored to store any information in a library style database.
+
+The functions allow the user to:
+
+- add info
+- clear all info
+- remove specific info
+- view all info
+- choose a random piece of info (suggest info)
+- find a specific piece of info

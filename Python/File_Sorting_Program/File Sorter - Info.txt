@@ -1,4 +1,4 @@
-File Sorter V3 is an application that uses a 
+File Sorter is an application that uses a 
 tkinter Gui that follows this procedure:
 
 - Browse to folder <User> would like organized.
@@ -17,12 +17,26 @@ file types (file.endswith(".exe", ".apk") etc.)
 
 - Opens new folder.
 
+- Auto Sort feature - sorts contents of the main folder that was created into the sub folers.
+this allows the user to drag and drop items over time and sort at the click of a button,
+rather than having to run the whole sorting system again.
+
 Updates:
+V4:
+File Sorter renamed to be programmer friendly
+Changes to except to be more specific.
+Colour scheme changed to be grey
+Changed GUI
+added auto-sort button that sorts the main folder that was created
+
+V3:
 File Sorter V3 now has an improved GUI and uses a dictonary for referencing file extensions
 aswell as including my new logo.
 
+V2:
 File Sorter V2 Was the first Gui Model
 
+V1:
 File Sorter OG was command line based
 
 
