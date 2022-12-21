@@ -1,5 +1,0 @@
-Created by Joshua Crews - 21/12/2022
-
-Converts a series of bytes that are specified by the user into a string using ASCII Codes.
-
-Run main.py to begin.

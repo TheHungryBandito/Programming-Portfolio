@@ -1,4 +1,4 @@
-# Created by Joshua Crews - 21/12/2022
+# Created by Joshua Crews - 22/12/2022
 
 import math
 
@@ -14,9 +14,9 @@ class ByteConverter:
             stringResult = stringResult + chr(number)
         return stringResult
 
-    # Converts a byte into an ASCII Code.
+    # Converts a byte into an integer.
     @staticmethod
-    def convert_byte_to_ASCII(byte):
+    def convert_byte_to_integer(byte):
         i = len(byte) - 1
         result = 0
         for bit in byte:
@@ -51,30 +51,3 @@ class ByteConverter:
 
         # If we made it this far then we succeed.
         return True
-
-    # Gets bytes from user input.
-    def get_bytes(self):
-        byteList = []
-        inputNeeded = True
-
-        # Repeats until user specifies there is no more.
-        while inputNeeded:
-
-            # Show current bytes.
-            print(f"Current bytes: {byteList}")
-            userInput = input("Please enter a byte or 'Y' to start process: ")
-
-            # If user wants to begin the process.
-            if userInput.lower() == 'y':
-                inputNeeded = False
-                break
-
-            # Ensure input is a byte.
-            if not self.validate_byte(userInput):
-                print(f"{userInput} is not a valid byte.")
-                continue
-
-            # Add byte to list.
-            byteList.append(userInput)
-
-        return byteList
