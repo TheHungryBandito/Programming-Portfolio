@@ -3,8 +3,7 @@
 
 ## Description
 The **Binary To Text** program takes a single/multiple bytes as input from the user,
-converts them to an integer, then finds the character associated with the value of each integer
-and displays the characters to the user.
+converts them to an integer, then finds the character associated with the value of each integer and displays the characters to the user.
 
 ## Requirements
 * Python (3.10) or compatible version
