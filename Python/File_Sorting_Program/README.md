@@ -26,4 +26,4 @@ Upon pressing continue, the program will sort the files into sub-folders in the 
 
 Inside the **Info** folder, you will find a .txt file that keeps track of every file sorted and what folder they were relocated to.
 
-Currently, the **Re-Sort** button will run the last sort again.
+Currently, the **Run Automatic Sorting** button will run the last sort again.
