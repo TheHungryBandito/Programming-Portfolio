@@ -23,7 +23,7 @@ or if not.
 python path/to/file/main.py
 ``` 
 
-Alternatively, this **c**an be run using an IDE such as Pycharm.
+Alternatively, this can be run using an IDE such as Pycharm.
 
 Upon start, you will be prompt with a message ```Please enter a byte or 'Y' to start process:```
 the byte must be **8 digits long**, consisting of **1's and 0's**. After typing a byte, **press enter to
