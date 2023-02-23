@@ -1,5 +1,5 @@
 # Programming-Portfolio
-Portfolio of various projects and experiments I have made.
+Portfolio of various solo projects and experiments I have made.
 
 ## About Me
 My name is **Joshua**, I live in Australia and I really love problem-solving using programming as my tool.
