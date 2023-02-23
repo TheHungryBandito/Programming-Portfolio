@@ -2,7 +2,7 @@
 Portfolio of various solo projects and experiments I have made.
 
 ## About Me
-My name is **Joshua**, I live in Australia and I really love problem-solving using programming as my tool.
+My name is **Joshua**, I live in Australia and I really love problem-solving using programming as my tool. To check out all of my work, be sure to look at the repositories I have contributed too!
 
 ## Programs
 
